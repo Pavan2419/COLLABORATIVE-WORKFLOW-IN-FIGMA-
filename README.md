@@ -99,6 +99,8 @@ The design includes the following screens:
 - **Plugins:** Use plugins for additional functionality (e.g., color contrast checkers, stock photo libraries).
 - **Handoff:** Share designs with developers using Figma’s inspect mode for assets and CSS.
 
+![Screenshot (10)](https://github.com/user-attachments/assets/023127fb-5f15-489d-8e5a-01625682ea32)
+
 ---
 
 ## Troubleshooting
